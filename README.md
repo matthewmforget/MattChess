@@ -1,4 +1,3 @@
-Here's a dynamic README section for your Flutter app project:
 
 ---
 
