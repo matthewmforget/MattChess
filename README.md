@@ -1,16 +1,23 @@
-# mattchess
+Here's a dynamic README section for your Flutter app project:
 
-A new Flutter project.
+---
 
-## Getting Started
+# Flutter App: Matt Chess! 🎮✨
 
-This project is a starting point for a Flutter application.
+Welcome to my Flutter app, where I’ve harnessed the power of **Dart** to create an engaging game experience! This project showcases my journey in building a chess app where users can play each other, and soon, an AI version of me.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 About the App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Using **Flutter**, I developed a seamless cross-platform application that runs smoothly on both iOS and Android devices. The game’s logic is crafted entirely in Dart, ensuring efficient performance and responsiveness, as well as running.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🤖 Java Version of Game Logic
+
+In addition to the Dart implementation, I also have a **Java version** of the game logic, which served as a foundation for the Flutter app. I originally was going to make an android app in java, but decided to switch to dart for iOS users. the java game logic is found here: https://github.com/matthewmforget/Chess
+
+### 🤖 Future Plans: AI Opponent
+
+Looking ahead, I plan to implement an **AI opponent** that learns from how I play. This feature aims to enhance gameplay, providing users with an exciting experience as they compete against me! This is also to help me become better at chess by playing an AI version of myself.
+
+## 🎉 Getting Started
+
+To run the app, clone this repository. You can run it using 'flutter run' with the given files on xCode or VS code, as long as you have either a simulator or a device to connect with.
